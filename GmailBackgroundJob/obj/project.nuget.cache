@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fjpLMYaSWc/FTtR+mr+PhstCPBBbj94S3vwtS5fuzVvhTmW10ZuDgSOrFVcV6lEfl7kcJkjcA7nDOPjg+4xcRA==",
+  "success": true,
+  "projectFilePath": "D:\\recycle-bin\\GmailBackgroundJob\\GmailBackgroundJob\\GmailBackgroundJob.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\C005339\\.nuget\\packages\\google.apis\\1.64.0\\google.apis.1.64.0.nupkg.sha512",
+    "C:\\Users\\C005339\\.nuget\\packages\\google.apis.auth\\1.64.0\\google.apis.auth.1.64.0.nupkg.sha512",
+    "C:\\Users\\C005339\\.nuget\\packages\\google.apis.core\\1.64.0\\google.apis.core.1.64.0.nupkg.sha512",
+    "C:\\Users\\C005339\\.nuget\\packages\\google.apis.gmail.v1\\1.64.0.3231\\google.apis.gmail.v1.1.64.0.3231.nupkg.sha512",
+    "C:\\Users\\C005339\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\C005339\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\C005339\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
